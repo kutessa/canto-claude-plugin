@@ -1,0 +1,10 @@
+{
+  "name": "canto",
+  "version": "1.0.0",
+  "description": "Search, read and tidy your Canto meeting notes and transcripts, and send Canto's notetaker to a call.",
+  "author": { "name": "Tessa Labs", "email": "hello@tessa.ba", "url": "https://usecanto.com" },
+  "homepage": "https://usecanto.com/integrations/mcp/",
+  "repository": "https://github.com/kutessa/canto-claude-plugin",
+  "license": "MIT",
+  "keywords": ["meetings", "notes", "transcription", "notetaker", "calendar", "mcp"]
+}

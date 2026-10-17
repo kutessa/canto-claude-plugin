@@ -1,0 +1,12 @@
+{
+  "name": "canto",
+  "description": "Canto for Claude Code: your meeting notes, transcripts and notetaker as tools.",
+  "owner": { "name": "Tessa Labs", "email": "hello@tessa.ba", "url": "https://usecanto.com" },
+  "plugins": [
+    {
+      "name": "canto",
+      "source": "./",
+      "description": "Search, read and tidy your Canto meeting notes and transcripts, and send Canto's notetaker to a call."
+    }
+  ]
+}
